@@ -29,7 +29,7 @@ const Hero = () => {
 />
 </h1>
       <p className="mb-8 leading-relaxed text-white">
-      I'm Raja Mashab, a BBA student with a specialization in Finance and Accounting. Recently, I embarked on an exciting journey into the world of technology, diving into web development with TypeScript and Next. js13 Additionally, I've delved into the fascinating realm of Generative 
+      Im Raja Mashab, a BBA student with a specialization in Finance and Accounting. Recently, I embarked on an exciting journey into the world of technology, diving into web development with TypeScript and Next. js13 Additionally, Ive delved into the fascinating realm of Generative 
       AI, exploring its endless possibilities..
       </p>
       <div className="flex justify-center">
